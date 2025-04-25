@@ -1,4 +1,4 @@
-#1 Imprime en pantalla la cadena “Hola, ya se imprimir frases”, mostrando un mensaje al usuario.
+#1 Imprime en pantalla la cadena “Hola, ya se imprimir frases”, mostrando el mensaje en la terminal
 
 #2 Muestra por pantalla el número entero 273 utilizando la función print().
 
