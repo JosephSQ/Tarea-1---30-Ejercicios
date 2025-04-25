@@ -2,7 +2,7 @@
 
 #2 Muestra por pantalla el número entero 273 utilizando la función print()
 
-#3 Imprime el número decimal 5.3, demostrando cómo Python maneja flotantes
+#3 Imprime el número decimal 5.3, demostrando el manejo de flotantes
 
 #4 Calcula la suma de 1234 y 532 y muestra el resultado (1766).
 
